@@ -1,3 +1,5 @@
+Check out the running dashboards @ https://oh-be.github.io/Plot.ly-Challenge/ !!
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
